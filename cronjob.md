@@ -28,6 +28,6 @@
       2. Cron Job
       --> Cron job is used for scheduling the any task or we can use this cron job to start the batch job.
       --> This is more offen like a timer for trigger some task.
-      
  
+<img width="941" alt="cron-all" src="https://user-images.githubusercontent.com/9497448/171057049-9ff47e8d-0db4-47f6-95fe-59891c492075.PNG">
 
