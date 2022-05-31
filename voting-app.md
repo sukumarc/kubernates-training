@@ -34,26 +34,26 @@ Node Port is assigned to voting and result pods, refere below image (higlighted 
 
 ##### **Vote pod delete Case:**
 
-Automatically vote pod recreated.
-All the services are running in the kubernates
-Both result and voting application working fine, able to access from the browser successfully.
+     Automatically vote pod recreated.
+     All the services are running in the kubernates
+     Both result and voting application working fine, able to access from the browser successfully.
 
 <img width="718" alt="vote delete" src="https://user-images.githubusercontent.com/9497448/171118318-e7d649be-627d-4d03-a924-d94eca717908.PNG">
 
 ##### **Worker pod delete Case:**
 
-Automatically worker pod recreated.
-All the services are running in the kubernates.
-Both result and voting application working fine, able to access from the browser successfully.
+     Automatically worker pod recreated.
+     All the services are running in the kubernates.
+     Both result and voting application working fine, able to access from the browser successfully.
 
 <img width="658" alt="worker delete" src="https://user-images.githubusercontent.com/9497448/171119253-5dabd556-0a51-48fc-827e-ec604a31ec20.PNG">
 
 ##### **DB pod delete Case:**
 
-Automatically db pod recreated.
-All the services are running in the kubernates.
-Voting application working fine, able to access from the browser and able to vote.
-We are able to reach result app from browser, but not able to see the voting result count.
+     Automatically db pod recreated.
+     All the services are running in the kubernates.
+     Voting application working fine, able to access from the browser and able to vote.
+     We are able to reach result app from browser, but not able to see the voting result count.
 
 <img width="697" alt="db delete" src="https://user-images.githubusercontent.com/9497448/171119787-eb75be0e-cfbd-4bc3-b76c-57385095c3bc.PNG">
 
